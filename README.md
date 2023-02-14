@@ -8,3 +8,7 @@ Today we made a Github Pages Site
 ## Class 02
 
 Class 02 Stuff
+
+## Class 03
+
+## Things I want to know more about
