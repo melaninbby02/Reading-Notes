@@ -1,6 +1,0 @@
-Seeing Your Remote
-running the git remote command, you can view the short names as origin for remote handles
-By using git remote -v, you can view all the remote URLs next to their short names
-example for git remote -v
-remote1 https://github.com/remote1/example (fetch) 2 and 3
-remote1 https://github.com/remote1/example (push) 2 and 3
